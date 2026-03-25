@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 # 💫 About Me:
-🔭 I’m currently working on improving scalability, reliability and accessibility of systems.<br>🤝 I’m looking for help with integrating data analysis and machine learning into my applications.<br>🌱 I’m currently learning AWS, system design and utilizing AI to my benefit.
+🔭 I’m currently learning by using RAG to make AI/LLMs solve real world problems.<br>🤝 I’m looking for help with integrating data analysis and machine learning into my applications.<br>🌱 I’m currently learning about LLMs, system design and utilizing AI to my benefit.
 
 
 ## 🌐 Socials:
